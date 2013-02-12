@@ -1,0 +1,14 @@
+How to use this example:
+
+0. Install sbt 0.12.2 (see http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html)
+
+1. Clone this repository and enter the directory sbt-example
+
+2. Run "sbt"
+
+3. To build, run "compile" in the sbt prompt
+
+4. To generate Eclipse project, run: "eclipse" in the sbt prompt
+
+5. To generate ENSIME project for Emacs (among other editors), run "ensime generate" in the sbt prompt
+
